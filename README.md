@@ -1,11 +1,16 @@
 # Science Communication
 
-In this repository, I will list science communication efforts that I have done
 
-## :open_book: AGU Abstract and Poster Fall 2021
+## :open_book: AGU Fall 2021 Conference
 **O’Ryan, D.**, Crystal-Ornelas, R., Agarwal, D., Boye, K., Cholia, S., Damerow, J., Dong, W., Williams, K., Varadharajan, C. (2021), Applying Community Data Reporting Formats to Open-Source Water Quality Data, [IN45F-0495] presented at 2021 Fall Meeting, AGU, 13-17 Dec.
 
 _Poster Link Coming Soon_
+
+## :spiral_notepad: LBNL Summer Intern Poster Session 2021
+**Dylan O'Ryan**, Robert Crystal-Ornelas, Charuleka Varadharajan. Improving the management and reuse of water quality data for the DOE’s Watershed Function Scientific Focus Area using community data standards. Poster presented at: LBNL Summer Intern Poster Session; August 4, 2021; Remote.
+
+[Poster Link](https://event.fourwaves.com/summerpostersession2021/abstracts/d63d6e39-2b72-4821-a0d1-49782040d919)
+
 ## :newspaper: Mokelumne Current
 **This is a yearly special-edition newspaper where students can communicate science knowledge to a broad audience. Below are my publications in this newspaper.**
 
