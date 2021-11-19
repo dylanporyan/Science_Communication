@@ -7,7 +7,7 @@
 _Poster Link Coming Soon_
 
 ## :spiral_notepad: LBNL Summer Intern Poster Session 2021
-**Dylan O'Ryan**, Robert Crystal-Ornelas, Charuleka Varadharajan. Improving the management and reuse of water quality data for the DOE’s Watershed Function Scientific Focus Area using community data standards. Poster presented at: LBNL Summer Intern Poster Session; August 4, 2021; Remote.
+**O'Ryan, D.**, Crystal-Ornelas, R., Varadharajan, C. Improving the management and reuse of water quality data for the DOE’s Watershed Function Scientific Focus Area using community data standards. Poster presented at: LBNL Summer Intern Poster Session; August 4, 2021; Remote.
 
 [Poster Link](https://event.fourwaves.com/summerpostersession2021/abstracts/d63d6e39-2b72-4821-a0d1-49782040d919)
 
