@@ -4,7 +4,7 @@
 ## :open_book: AGU Fall 2021 Conference
 **O’Ryan, D.**, Crystal-Ornelas, R., Agarwal, D., Boye, K., Cholia, S., Damerow, J., Dong, W., Williams, K., Varadharajan, C. (2021), Applying Community Data Reporting Formats to Open-Source Water Quality Data, [IN45F-0495] presented at 2021 Fall Meeting, AGU, 13-17 Dec.
 
-_Poster Link Coming Soon_
+[Poster Link](agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=A1-29-AB-13-4F-3C-36-95-02-55-6E-8E-E6-AA-2D-7B)
 
 ## :spiral_notepad: LBNL Summer Intern Poster Session 2021
 **O'Ryan, D.**, Crystal-Ornelas, R., Varadharajan, C. Improving the management and reuse of water quality data for the DOE’s Watershed Function Scientific Focus Area using community data standards. Poster presented at: LBNL Summer Intern Poster Session; August 4, 2021; Remote.
