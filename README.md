@@ -24,4 +24,4 @@
    - This article discusses my experience as a Storm Drain Dectective and the importance of CBM programs
 
 ## :computer: ESS-DIVE Blog Post
-_Title and Link Coming Soon_
+- December 2021: Standardizing Water Quality Data with New ESS-DIVE Community Reporting Formats _(Link Coming Soon)_
