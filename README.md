@@ -24,4 +24,4 @@
    - This article discusses my experience as a Storm Drain Dectective and the importance of CBM programs
 
 ## :computer: ESS-DIVE Blog Post
-- December 2021: Standardizing Water Quality Data with New ESS-DIVE Community Reporting Formats _(Link Coming Soon)_
+- January 2022: [Standardizing Water Quality Data with New ESS-DIVE Community Reporting Formats](https://ess-dive.lbl.gov/2022/01/02/standardizing-water-quality-data-with-new-ess-dive-community-reporting-formats/)
