@@ -25,3 +25,12 @@
 
 ## :computer: ESS-DIVE Blog Post
 - January 2022: [Standardizing Water Quality Data with New ESS-DIVE Community Reporting Formats](https://ess-dive.lbl.gov/2022/01/02/standardizing-water-quality-data-with-new-ess-dive-community-reporting-formats/)
+
+## :newspaper: In the News
+- Blog Article: “ESS-DIVE at AGU21” 2021 (highlighted)
+- Website Article: “Investigating a future in STEM: Recapping WD&E’s 2021 Summer Poster Session” 2021 (interviewed)
+- Newspaper Article: “Lodi City Council to recognize two decades of Storm Drain Detectives” 2020 (interviewed) 
+- Newspaper Article: “Necessity mother of invention for Lodi students” 2018 (interviewed/highlighted)
+- Website: “2018 Winners – Past Winners” 2018 (referenced on website)
+- Newspaper Article: “Citizen Science: Lodi under the microscope” 2017 (highlighted)
+- Newspaper Article: “Storm Drain Detectives give Mokelumne River a checkup” 2016 (interviewed)
