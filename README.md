@@ -4,7 +4,9 @@
 **O'Ryan, D.**, Varadharajan, C., Alper, E., Boye, K., Burrus, M., Christianson, D., Cholia, S., Crystal-Ornelas, R., Damerow, J., Dong, W., Elbashandy, H., Faybishenko, B., Hendrix, V., Johnson, D., Kakalia, Z., Versteeg, R., Williams, K., Wong, C., and Agarwal, D.: A workflow to standardize collection and management of large-scale data and metadata from environmental observatories, EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022, EGU22-13338, https://doi.org/10.5194/egusphere-egu22-13338, 2022.
 
 ## :spiral_notepad: C\*Sci 2022 Meeting (Poster Presentation)
-**O'Ryan, D.**, Grant, K., Atwater, J., Bock, B., Jacinto, J., Madrigal, L., …, Turner, M. (2022). Insights from Water Quality Community Based Monitoring Program – Storm Drain Detectives, City of Lodi, presented at C*Sci22, Citizen Science Association, 23-26 May. 
+**O'Ryan, D.**, Grant, K., Atwater, J., Bock, B., Jacinto, J., Madrigal, L., …, Turner, M. (2022). Insights from Water Quality Community Based Monitoring Program – Storm Drain Detectives, City of Lodi, presented at C\*Sci22, Citizen Science Association, 23-26 May. 
+
+[Poster Link](https://github.com/dylanporyan/Science_Communication/blob/main/document_links/C_Sci22_Presentation.pdf)
 
 ## :open_book: AGU Fall 2021 Conference (Poster Presentation)
 **O’Ryan, D.**, Crystal-Ornelas, R., Agarwal, D., Boye, K., Cholia, S., Damerow, J., Dong, W., Williams, K., Varadharajan, C. (2021), Applying Community Data Reporting Formats to Open-Source Water Quality Data, [IN45F-0495] presented at 2021 Fall Meeting, AGU, 13-17 Dec. DOI: [10.1002/essoar.10509738.1](https://www.essoar.org/doi/10.1002/essoar.10509738.1)
